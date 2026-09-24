@@ -12,7 +12,7 @@
 <img src="https://img.shields.io/badge/GitHub-msaad--ai-181717?style=for-the-badge&logo=github" />
 </a>
 
-<a href="https://www.linkedin.com/in/saad-rafique-3338ab2b4/">
+<a href="https://www.linkedin.com/in/msaad-ai/">
 <img src="https://img.shields.io/badge/LinkedIn-Muhammad%20Saad-0A66C2?style=for-the-badge&logo=linkedin" />
 </a>
 
@@ -170,7 +170,7 @@ I focus on creating applications that are:
 <img src="https://img.shields.io/badge/GitHub-msaad--ai-181717?style=for-the-badge&logo=github" />
 </a>
 
-<a href="https://www.linkedin.com/in/saad-rafique-3338ab2b4/">
+<a href="https://www.linkedin.com/in/msaad-ai/">
 <img src="https://img.shields.io/badge/LinkedIn-Muhammad%20Saad-0A66C2?style=for-the-badge&logo=linkedin" />
 </a>
 
